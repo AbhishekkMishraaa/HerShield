@@ -3,15 +3,9 @@
 
 
 
-LadyBudyy addresses the most devastating problem of human civilization till date,by an innovative technology and simulation.The app manifests mainly four features which are Emergency SOS service, Hidden camera detector manually or by the Electromagntic field detection simulation developed by us, Women's struggle and empowerment news to get empowered, Siren alarm.
+HerShield addresses the most devastating problem of human civilization till date,by an innovative technology and simulation.The app manifests mainly four features which are Emergency SOS service, Hidden camera detector manually or by the Electromagntic field detection simulation developed by us, Women's struggle and empowerment news to get empowered, Siren alarm.
 
-LadyBuddy is available on the Google Play Store.
 
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.teamDroiders.ladybuddy">
-  
-       </a>  
-       </p>
 
 
        
